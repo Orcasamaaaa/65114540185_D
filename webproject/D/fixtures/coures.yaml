@@ -1,0 +1,5 @@
+- model: D.Course
+  fields:
+    id : 1
+    name : Dstool
+    teacher : wichit
